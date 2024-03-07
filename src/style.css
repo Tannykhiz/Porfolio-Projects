@@ -572,16 +572,19 @@ span {
     .home-img img {
         width: 60vw;
         margin-top: 4rem;
+        
     }
     #about-me-image{
         width: 60vw;
+        display: none;
     }
     
     .contact form .input-box input{
         width: 100%;
 
     }
-
+   
+    
 }
 
 @media (max-width:355px) {
@@ -591,8 +594,9 @@ span {
     }
     #about-me-image{
         width: 90vw;
+        display: none;
     }
-
+    
 .footer {
     flex-direction: column-reverse;
 
