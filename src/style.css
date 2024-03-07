@@ -147,6 +147,17 @@ span {
     font-family: 'roboto', sans-serif;
     margin: 10px 0 20px;
 }
+.cv {
+    padding: 10px 28px;
+    border-radius: 40px;
+    background: var(--main-color);
+    box-shadow: 0 0 10px var(--main-color);
+    font-family: 'lora', sans-serif;
+    font-size: 1.4rem;
+    color: var(--second-bg-color);
+    letter-spacing: .1rem;
+
+}
 
 .social-media a {
     display: inline-flex;
@@ -189,17 +200,14 @@ span {
 }
 
 .about {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 20px;
+    
     background: var(--second-bg-color);
 
 }
 
-.about-img img {
-    width: 52vh;
-}
+/* .about-img img { */
+    /* width: 52vh; */
+/* } */
 
 .heading {
     text-align: center;
