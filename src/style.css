@@ -147,7 +147,7 @@ span {
     font-family: 'roboto', sans-serif;
     margin: 10px 0 20px;
 }
-.cv {
+.download-cv-btn {
     padding: 10px 28px;
     border-radius: 40px;
     background: var(--main-color);
@@ -156,8 +156,12 @@ span {
     font-size: 1.4rem;
     color: var(--second-bg-color);
     letter-spacing: .1rem;
-
 }
+.download-cv-btn:hover:not(.no-hover){
+ color: black;
+}
+
+
 
 .social-media a {
     display: inline-flex;
@@ -591,6 +595,11 @@ span {
         width: 100%;
 
     }
+    .download-cv-btn {
+
+        padding: 10px 10px;
+    }
+
    
     
 }
