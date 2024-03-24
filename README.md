@@ -16,7 +16,7 @@ I developed this porfolio website using HTML/CSS and Javascript to exhibit my da
 my own creation to life and publishing it for others to engage with. 
 
 # My projects 
-[SQLCovid-19 Data Exploration]()
+[SQLCovid-19 Data Exploration](https://github.com/Tannykhiz/noluthando-mkhize-porfolio-website/tree/89f27111e561a64eabf6f4d1838d4b8633570cbd/SQL_Covid-19_Data_Exploration)
 
 
 
