@@ -246,6 +246,10 @@ span {
     margin-bottom: 50px;
 }
 
+.underline{
+    text-decoration: underline;
+}
+
 .skills-container {
     display: flex;
     justify-content: center;
