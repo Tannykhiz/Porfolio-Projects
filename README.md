@@ -11,6 +11,7 @@ group projects and team duties
 # Get to to know me
 
 ## My Portfolio Website 
+!["Image"](webimage.png)
 I developed this porfolio website using HTML/CSS and Javascript to exhibit my data analysis skills and projects. I deployed the site on 
 [here](https://www.google.com) to enrich my understanding of back-end dev. I did learn alot from making this website, the greatest reward was bringing 
 my own creation to life and publishing it for others to engage with. 
