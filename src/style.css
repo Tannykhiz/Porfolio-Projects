@@ -586,13 +586,13 @@ span {
 @media (max-width:450px) {
   
     .home-content h1{
-        font-size: 3.8rem;
+        font-size: 3.5rem;
     }
     .home-content h3{
-        font-size: 2.3rem;
+        font-size: 2rem;
     }
-    p {
-        font-size: 16px;
+    html {
+        font-size: 0.65rem;
     }
     .home-img img {
         width: 60vw;
@@ -623,9 +623,7 @@ span {
         width: 90vw;
     }
     
-    p{
-        font-size: 16px;
-    }
+    
     #about-me-image{
         width: 90vw;
         display: none;
