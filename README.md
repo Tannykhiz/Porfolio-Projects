@@ -19,7 +19,7 @@ my own creation to life and publishing it for others to engage with.
 ## [SQL Covid-19 Data Exploration](https://github.com/Tannykhiz/noluthando-mkhize-porfolio-website/tree/89f27111e561a64eabf6f4d1838d4b8633570cbd/SQL_Covid-19_Data_Exploration)
 This data exploration project utilizes a rich COVID-19 dataset from the World Health Organization, spanning from January 1st, 2020 to February 2024. It aims to answer critical questions concerning the global reach of the pandemic, such as infection rates, mortality risks, and death tolls by country. 
 
-## [SQL Data Cleaning](Data Cleaning SQL)
+## [SQL Data Cleaning](https://github.com/Tannykhiz/noluthando-mkhize-porfolio-website/tree/ea285a6a5902e11632a96aeb31fad3beda5ed70a/Data%20Cleaning%20SQL)
 This project wrangled the Nashville housing data using SQL. I transformed addresses, standardized dates, filled in missing info, removed duplicates, and cleaned up columns. Now the data is ready for analysis. 
 
 
